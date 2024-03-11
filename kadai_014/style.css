@@ -1,0 +1,31 @@
+html {
+  font-size: 20px;
+}
+
+body {
+  font-family:"Arial", "Meiryo", sans-serif;
+  text-align: center;
+}
+
+#first-heading {
+  /* ここにGoogle Fontsを指定します */
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 2em;
+  letter-spacing: 1.2em;
+  text-shadow: 1px 1px 2px gray;
+  border-bottom: solid 3px rgb(115, 115, 114);
+}
+
+.pink {
+  /* 以下はRGBで色を指定しています */
+  color:rgb(255, 192, 203);
+}
+
+.skyblue{
+/* 以下はキーワードで色を指定しています */
+  color: skyblue;
+}
+
+#parent p {
+  font-weight: bold;
+}
